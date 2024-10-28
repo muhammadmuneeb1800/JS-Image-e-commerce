@@ -1,0 +1,7 @@
+#images img {
+  opacity: 0.7;
+}
+
+#images img:hover {
+  opacity: 1;
+}
